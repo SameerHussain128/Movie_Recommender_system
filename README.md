@@ -17,14 +17,14 @@ The Movie Recommender System leverages a content-based filtering approach:
   
 Key technologies used:
 
-Python: Core logic and data processing.
-Streamlit: Frontend development for deploying the application.
-Pickle: To store precomputed similarity matrices and datasets.
-TMDb API / OMDb API: To fetch movie posters dynamically.
+* Python: Core logic and data processing.
+* Streamlit: Frontend development for deploying the application.
+* Pickle: To store precomputed similarity matrices and datasets.
+* TMDb API / OMDb API: To fetch movie posters dynamically.
 
 Result
-A user-friendly web application that:
-Allows users to select or type a movie title.
-Provides 5 recommended movies based on similarity scores.
-Displays high-quality movie posters alongside recommendations.
+* A user-friendly web application that:
+* Allows users to select or type a movie title.
+* Provides 5 recommended movies based on similarity scores.
+* Displays high-quality movie posters alongside recommendations.
 The system successfully combines machine learning techniques with modern web development tools to deliver an engaging and useful movie recommendation platform.
